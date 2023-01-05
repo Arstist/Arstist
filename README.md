@@ -23,7 +23,7 @@
   
   <h3 align="center">🌍 Other and contacts 🌏</h3>
   <p align="center">
-    <img src="https://www.codewars.com/users/Arstist/badges/small"/></a>&nbsp
+    <img src="https://www.codewars.com/users/Arstist/badges/large"/></a>&nbsp
       </p>
      <p align="center">
     <a href="amlnoname99@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
