@@ -22,5 +22,7 @@
   </p>
   
   <h3 align="center">🌍 Other and contacts 🌏</h3>
+  <p align="center">
     <img src="https://www.codewars.com/users/Arstist/badges/large"/></a>&nbsp
-
+    
+   </p>
