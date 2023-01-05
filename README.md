@@ -1,7 +1,8 @@
 ![Header](https://wiki.stavcdo.ru/images/5/54/%D0%94%D0%B5%D0%BA%D0%BE%D1%80.png)
-## 📌 I`m a Junior developer
+## <h3 align="center">I`m a Junior developer</h3>📌 
 
 ### Language and Tools
+[!Flutter] (https://img.shields.io/badge/<MESSAGE>-<COLOR>)
 
 <!--
 **Arstist/Arstist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
