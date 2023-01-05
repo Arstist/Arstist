@@ -31,9 +31,8 @@
    <a href="https://vk.com/yourmotherinlaw"><img src="https://img.shields.io/badge/VK-0077FF?style=flat-square&logo=VK&logoColor=#0077FF"/></a>
  </a>
    </p>
-
-<p align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arstist&show_icons=true&theme=dracula)
-  
-</p>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arstist)](https://github.com/anuraghazra/github-readme-stats)
+
