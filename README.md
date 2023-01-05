@@ -31,8 +31,5 @@
    <a href="https://vk.com/yourmotherinlaw"><img src="https://img.shields.io/badge/VK-0077FF?style=flat-square&logo=VK&logoColor=#0077FF"/></a>
  </a>
    </p>
-     <p align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-  
-     </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arstist&show_icons=true&theme=transparent)
