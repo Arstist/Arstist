@@ -1,5 +1,5 @@
 ### About me:
-[![Header](https://wiki.stavcdo.ru/images/5/54/%D0%94%D0%B5%D0%BA%D0%BE%D1%80.png)]
+![Header](https://wiki.stavcdo.ru/images/5/54/%D0%94%D0%B5%D0%BA%D0%BE%D1%80.png)
 
 
 
