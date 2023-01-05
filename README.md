@@ -1,7 +1,7 @@
 ![Header](https://wiki.stavcdo.ru/images/5/54/%D0%94%D0%B5%D0%BA%D0%BE%D1%80.png)
-### 📌 I`m a Junior developer
+## 📌 I`m a Junior developer
 
-## Language and Tools
+### Language and Tools
 
 <!--
 **Arstist/Arstist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
