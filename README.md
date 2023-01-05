@@ -26,6 +26,6 @@
     <img src="https://www.codewars.com/users/Arstist/badges/small"/></a>&nbsp
       </p>
      <p align="center">
-    <a href="amlnoname99@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+   <a href="amlnoname99@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
    <img src=" https://img.shields.io/badge/Telegram-gray?style=flat-square&logo=telegram&logoColor=#26A5E4&link=https://t.me/hashMapJVM"/></a>&nbsp\
    </p>
