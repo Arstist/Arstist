@@ -22,5 +22,5 @@
   </p>
   
   <h3 align="center">🌍 Other and contacts 🌏</h3>
-    <img src="[https://img.shields.io/badge/Selenium-00a300?style=flat-square&logo=Selenium&logoColor=white](https://www.codewars.com/users/Arstist/badges/large)"/></a>&nbsp
+    <img src="https://www.codewars.com/users/Arstist/badges/large"/></a>&nbsp
 
