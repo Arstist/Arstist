@@ -34,5 +34,5 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arstist&show_icons=true&theme=dracula)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arstist)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arstist&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
